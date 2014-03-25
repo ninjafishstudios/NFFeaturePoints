@@ -21,6 +21,6 @@ Pod::Spec.new do |s|
   
   s.requires_arc = true
     
-	s.dependency 'FeaturePoints'
+#	s.dependency 'FeaturePoints'
   
 end
